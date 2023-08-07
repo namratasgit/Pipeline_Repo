@@ -1,0 +1,1 @@
+echo "Checking the Quality gate of the project : %date% : %time% "
